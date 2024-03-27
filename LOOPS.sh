@@ -31,3 +31,7 @@ do
    echo "$i"
 done
 
+# for loop wirh conditional statememts
+
+for i in (( i=o; i=10; i++ ))
+do 

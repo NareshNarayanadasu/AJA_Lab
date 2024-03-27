@@ -8,3 +8,4 @@ free -h | grep "Mem"
 # Display Disk usage 
 echo -e "\nDisk Usage:" 
 df -h
+
