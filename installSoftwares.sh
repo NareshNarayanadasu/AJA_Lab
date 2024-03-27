@@ -1,5 +1,6 @@
 #!/bin/bash
 #A script to automate software installation
+# script for showing memory in out put  before install and after installation
 # update system
 sudo apt update -y
 
