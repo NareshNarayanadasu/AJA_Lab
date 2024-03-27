@@ -11,3 +11,11 @@
   comment 5
   comment 6 
   comment 7 '
+
+
+
+# IF YOU WANT TO SHOW THE COMMENT OUT PUT THEN THERE IS A SOLUTIN FOR IT 
+
+cat << kreativ
+some thing you want show in output then you can use this script 
+kreativ
