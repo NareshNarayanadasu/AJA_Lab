@@ -1,0 +1,1 @@
+cat > RedirectFilesUsingBashToWrite.sh
