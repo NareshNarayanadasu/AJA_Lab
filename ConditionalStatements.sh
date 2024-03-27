@@ -19,4 +19,5 @@ if
                       not iqal to is  -nq
                       greater then   -gt  or u can use > ny using paranthasis  [ $count -gt 10 ] (( $count > 10 )) 
                       for less then you can use u can use < ny using paranthasis  [ $count -lt 10 ] (( $count < 10 )) 
-                      and command can be used in   $$  or -a '
+                      for and operator  can be used in   $$  or -a
+                      for or operator we can use  -o   or || '
